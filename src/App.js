@@ -130,7 +130,7 @@ function App() {
   return (
     <div className="App">
       <p>
-          Zadejte částka a VS
+          Zadejte částka a VS: QR kód vytvoří trvalý přikaz s intervalem každý měsíc
       </p>
       <PaymentForm/>
     </div>
