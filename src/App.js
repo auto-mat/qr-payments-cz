@@ -133,6 +133,15 @@ function App() {
           Zadejte částka a VS: QR kód vytvoří trvalý přikaz s intervalem každý měsíc
       </p>
       <PaymentForm/>
+      <p>
+      Implementuje "Standard ČBA –Formát pro sdílení platebních údajů v rámci tuzemského platebního styku v CZK prostřednictvím QR kódů" <a href="https://cbaonline.cz/upload/538-qr-kody-2015.pdf">Verze 1.1–srpen2015</a>
+      </p>
+      <p>
+      <a href="https://github.com/auto-mat/qr-payments-cz">Zdroják</a>
+      </p>
+      <p>
+      Copyright © 2020 Auto*mat z.s. License <a href="https://www.gnu.org/licenses/agpl-3.0.txt">AGPLv3.0 or later</a>
+      </p>
     </div>
   );
 }
