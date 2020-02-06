@@ -1,6 +1,8 @@
 Vytvořit QR kódy pro trvalé příkazy pomocy reactu
 -------------------------------------------------
 
+[Online verze](https://react-qr-payments-cz.s3.eu-west-1.amazonaws.com/index.html)
+
 Querystring api
 ---------------
 
